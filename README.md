@@ -1,6 +1,6 @@
-# Dell Vostro 5401 (Ice Lake) Hackintosh
+# Dell XPS 9570 (Coffee Lake) Hackintosh
 
-EFI for Dell Vostro 5401 with OpenCore bootloader
+EFI for Dell XPS 9570 with OpenCore bootloader
 
 ![descrizione](./Screenshot/pc.jpg)
 
@@ -15,9 +15,9 @@ EFI for Dell Vostro 5401 with OpenCore bootloader
 | Ram              | 32 Gb DDR4 2666 Mhz                 |
 | Wifi + Bluetooth | Killer 1545 Not Working)             |
 | NVMe             | HYNIX BC511 512 GB (WINDOWS)       |
-| NVME             | SAMSUNG 970 EVO PLUS 500 GB (MACOS)|
-| SmBios           | MacBookPro 16,2                    |
-| BootLoader       | OpenCore                           |
+| NVMe             | SAMSUNG 970 EVO PLUS 500 GB (MACOS)|
+| SmBios           | MacBookPro 15,1                    |
+| BootLoader       | OpenCore 0.6.4                          |
 
 ![infobigsur](./Screenshot/infomacbigsur.png)
 
