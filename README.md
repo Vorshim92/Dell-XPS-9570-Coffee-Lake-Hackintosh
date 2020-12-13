@@ -8,12 +8,12 @@ EFI for Dell Vostro 5401 with OpenCore bootloader
 
 | Component        | Brank                              |
 | ---------------- | ---------------------------------- |
-| CPU              | Intel i7 1065G7 (4C-8T 8MB ICL)    |
-| iGPU             | Intel® Iris Plus Graphics          |
-| Lan              | Realtek 8168                       |
-| Audio            | Realtek ALC236                     |
-| Ram              | 32 Gb DDR4 3200 Mhz                 |
-| Wifi + Bluetooth | BCM943602BAED (DW1830)             |
+| CPU              | Intel i7 8750H (6C-12T)    |
+| iGPU             | Intel® UHD630          |
+| Lan              | NOLAN                       |
+| Audio            | Realtek ALC238                     |
+| Ram              | 32 Gb DDR4 2666 Mhz                 |
+| Wifi + Bluetooth | Killer 1545 Not Working)             |
 | NVMe             | HYNIX BC511 512 GB (WINDOWS)       |
 | NVME             | SAMSUNG 970 EVO PLUS 500 GB (MACOS)|
 | SmBios           | MacBookPro 16,2                    |
